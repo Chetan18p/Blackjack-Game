@@ -41,27 +41,6 @@ Blackjack-Game/
 - CSS3
 - JavaScript (Vanilla JS)
 
-## Running the Project Locally
-
-You can run the project in either of these ways:
-
-### Option 1: Open directly in browser
-
-- Open `index.html` in any modern browser.
-
-### Option 2: Serve locally
-
-```bash
-cd Blackjack-Game
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
 ## Game Logic Overview
 
 The game uses JavaScript to:
